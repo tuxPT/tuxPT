@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Since 2010 a Linux and Open Source enthusiast and currently studying an MIECT at Aveiro University. My main areas of interest are AI, Security and Deployment.
+
 <!--
 **tuxPT/tuxPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
