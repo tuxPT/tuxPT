@@ -1,6 +1,13 @@
-### Hi there 👋
-
 Since 2010 a Linux and Open Source enthusiast and currently studying an MIECT at Aveiro University. My main areas of interest are AI, Security and Deployment.
+<p align='center'>
+  My Laptop
+  <br/>
+  <img src="https://img.shields.io/badge/OS-ArchLinux-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Core_i5_5200U-blue?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-920M-brightgreen?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAM-6GB-blue?style=for-the-badge"/>
+</p>
+
 
 <!--
 **tuxPT/tuxPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
